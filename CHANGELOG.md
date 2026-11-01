@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 - Add guards so that the client is usable on iOS
+- Update Yams to 6.x
 
 ## 0.25.0
 
